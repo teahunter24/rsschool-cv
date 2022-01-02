@@ -46,3 +46,12 @@ I'm a building engineer now, but I would like to change my working sphere. So it
 > * Engineer
 
 ---
+
+### Education
+> **Grodno Polytechnical College**  
+> Industrial and Civil Engineering  |  2011 - 2015
+> 
+> **Grodno State University of Yanka Kupala**  
+> Industrial and Civil Engineering  |  2015 - 2019
+
+---
