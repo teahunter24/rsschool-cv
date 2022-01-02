@@ -55,3 +55,9 @@ I'm a building engineer now, but I would like to change my working sphere. So it
 > Industrial and Civil Engineering  |  2015 - 2019
 
 ---
+
+### Languages
+
+> * English - B1
+> * Polish - A2
+> * Russian - native
